@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.2
+certifi==2023.7.22
+charset-normalizer==2.0.12
+chromedriver-autoinstaller==0.6.2
+idna==3.4
+requests==2.27.1
+selenium==3.141.0
+soupsieve==2.3.2.post1
+tk==0.1.0
+urllib3==1.26.16
+    
